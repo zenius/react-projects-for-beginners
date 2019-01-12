@@ -1,7 +1,7 @@
 {
   "name": "city-tours-project",
   "version": "1.0.0",
-  "description": "A react project listing cities"
+  "description": "A react project listing cities",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
